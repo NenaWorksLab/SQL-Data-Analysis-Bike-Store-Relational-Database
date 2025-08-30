@@ -213,7 +213,7 @@ ORDER BY total_customer DESC;
 | What Was Found(WHAT)| Implications / Why (SO WHAT) | Recommendations (NOW WHAT)|
 | ------ | ------ | ------ |
 | Baldwin Bikes store is the store with the highest sales| Baldwin Bikes store is at the top of the bicycle market | learn more about why baldwin bikes can sell better and apply to low-performing stores |
-| The highest sales in the year range were around 2016 - 2017 but the peak was in 2016 in the 9th month | This sales peak indicates a seasonal trend | Management needs to prepare special promotional campaigns for peak sales months |
+| The highest sales in the year range were around 2016 - 2017 but the peak was in 2016 in the 9th month | This sales peak indicates a strong seasonal trend. The months around September experience particularly high demand | Management needs to prepare special promotional campaigns for peak sales months |
 | Marcelene is the employee who handles the most orders, amounting to 1,615 orders | Marcelene is one of the team's valuable assets and could possibly serve as a mentor | give Marcelene incentives and provide training to other employees so they can work better |
 
 ###  2. Product & Inventory Analysis
