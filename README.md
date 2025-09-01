@@ -7,21 +7,29 @@
 ## Project Overview
 This project provides a comprehensive analysis of sales data for a bike store using SQL. The primary goal is to extract key business insights from a relational database, focusing on sales performance, product trends, and customer behavior.
 
+***
+
 ## Problem Statement & Key Questions
 The analysis addresses the following core business questions:
 1. **Sales Performance Analysis:** Which store has the highest total sales revenue? What are the monthly sales trends? Which staff member is the top performer?
 2. **Product & Inventory Analysis:** Which products are the most popular, and from which categories and brands? Are there any products with low stock?
 3. **Customer Analysis:** Who are the top 5 most valuable customers based on spending? From which regions do most customers come?
 
+***
+
 ## Dataset
 The dataset used is a [relational database for a bike store](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database/data?select=customers.csv), comprising 9 interconnected tables. The tables contain information on sales transactions, products, brands, stores, staff, and customers.
 
 ![Bike Store ERD](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4146319%2Fc5838eb006bab3938ad94de02f58c6c1%2FSQL-Server-Sample-Database.png?generation=1692609884383007&alt=media)
 
+***
+
 ## Tools Used
 - **Database:** MySQL
 - **Client:** MySQL Workbench
 - **Language:** Structured Query Language (SQL)
+
+***
 
 ## Analysis & Key Findings
 ###  1. Sales Performance Analysis
@@ -207,6 +215,8 @@ ORDER BY total_customer DESC;
 
 > the majority of customers come from Mount Vernon, accounting for 20 consumers. This indicates that the store has a strong customer base in that specific city.
 
+***
+
 ## Conclusion
 ###  1. Sales Performance Analysis
 
@@ -228,6 +238,8 @@ ORDER BY total_customer DESC;
 | there are 5 top customers with purchase amounts from $31,925 to $34,807 and customer number 1 is sharyn Hopkins | The significant revenue contribution of these small numbers of customers demonstrates that they are the foundation of a business's revenue. Maintaining their satisfaction and loyalty is crucial to long-term success | Set up a loyalty program: Create a special program or offer personalized discounts to encourage repeat orders and increase customer retention|
 | the most customers come from Mount Vernon with 20 customers | This high concentration of customers indicates that the city is a very strong and vital market for business | Businesses should focus their marketing and promotional efforts in the Mount Vernon area to further strengthen market share. Furthermore, it's important to evaluate the city's success factors to replicate those strategies in other cities |
 
+
+***
 
 ## Contribution
 This project was developed by **Nenna Khoirunnisa** as a self-initiated learning and portfolio endeavor.
